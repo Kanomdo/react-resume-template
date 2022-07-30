@@ -1,46 +1,36 @@
 {
   "main": {
-    "name": "Tim Baker",
-    "occupation": "(Your Occupation Here)",
+    "name": "Hi! I'm Donat Natthanan",
+    "occupation": "Thank for visiting my website",
     "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
-    "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "image": "profiledonat.jpg",
+    "bio": "I am a person who love to learn new things and always challenge myself. I believed that new problems lead to new knowledge and endless progression.",
+    "contactmessage": "Here you can contact me",
+    "email": "natthanan.kanomdo@gmail.com",
+    "phone": "064-961-5550",
     "address": {
-      "street": "(Your Street)",
-      "city": "(Your City)",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street": "SKN.5031",
+      "city": "MueangSamutsakhon",
+      "state": "Samutsakhon",
+      "zip": "74000"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1bLLdRNg8uyLz5P4kwdO1wVa-D5T-yi5c/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
+        "url": "https://www.facebook.com/profile.php?id=100004063190728",
         "className": "fa fa-facebook"
       },
       {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
+        "name": "github",
+        "url": "https://github.com/Kanomdo",
+        "className": "fa fa-github"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/in/natthananchaw/",
         "className": "fa fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
-        "className": "fa fa-instagram"
-      },
-      {
-        "name": "github",
-        "url": "http://github.com/tbakerx",
-        "className": "fa fa-github"
       }
     ]
   },
@@ -48,40 +38,111 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "King Mongkut's University of Technology Thonburi (KMUTT)-JGSEE",
+        "degree": "Masters in Energy Technology and Management (Full Scholarship: GPA 3.81)",
+        "graduated": "September 2022",
+        "description": "Research Interested : Application of deep learning techniques to forecast the tilted solar radiation in tropical climate of Thailand. This study use python for data manipulation and TensorFlow was used for data modelling."
       },
       {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "King Mongkut's University of Technology Thonburi (KMUTT)",
+        "degree": "Bachelor in Automation Engineering (Second Class Honors: GPA 3.43)",
+        "graduated": "July 2022",
+        "description": "Final Project : Automatic Water Quality Control and Monitor for Shrimp Farming via Low Energy Wireless Communication. Google Cloud Platform was used in backend development. Design and develop WebApp, UX/UI design, LIFF (LINE), Dialogflow, NLP"
+      },
+      {
+        "school": "Samutsakhonburana School",
+        "degree": "High School Diploma (GPA 3.68)",
+        "graduated": "March 2017",
+        "description": "Science-Math program with GPA 3.68. Top scores in information and technology subjects."
       }
     ],
+    
+    "competitions": [
+      {
+        "company": "FWD Hackathon 2022",
+        "title": "Changing the way people feel about insurance",
+        "years": "July 2022",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company": "AI & ROBOTICS HACKATHON 2021",
+        "title": "Subsea Machine Learning",
+        "years": "October 2021",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company": "UNOSSC ASIA-PACIFIC SPEECH COMPETITION",
+        "title": "Student Competition on Triangular Cooperation for Sustainable Development",
+        "years": "Febuary 2020",
+        "description": "My team's responsibility is to give a speech to engage students in triangular cooperation for sustainable development from an engineering perspective."
+      },
+      {
+        "company": "International Autonomous ROBOT RACING Competition (IARRC)-CANADA",
+        "title": "Autonomous Robot Racing",
+        "years": "JULY 2018 (University of Waterloo)",
+        "description": "My team's responsibility is coding in the Python language for image processing for autonomous car driving, and I also designed and created a video for presentation."
+      },
+      {
+        "company": "TESA TOP GUN RALLY 2020",
+        "title": "Health Monitoring and Management Systems for Elderly and All Kinds of People",
+        "years": "JANUARY 2020",
+        "description": "My team's responsibility is coding the MQTT protocol as a server by using the Javascript language for health monitoring and management systems for the elderly and all kinds of people."
+      },
+      {
+        "company": "TESA TOP GUN RALLY 2019",
+        "title": "Smart National Historic Site 4.0",
+        "years": "JANUARY 2019",
+        "description": "My team's responsibility is coding in the Javascript language for the prediction model and connecting to the database. The LINE Beacon was used for counting the number of people who entered the historical park and then intergating as the input to the AI model."
+      },
+      {
+        "company": "TESA TOP GUN RALLY 2018",
+        "title": "Smart National Park 4.0",
+        "years": "JANUARY 2018",
+        "description": "My team's responsibility is coding in the MATLAB program to analyze data from sensors and then create AI models. Moreover, I also designed a GUI interface for the user to interact with the system."
+      },
+      {
+        "company": "BANGKOK MAKERTHON",
+        "title": "Smart City",
+        "years": "JANUARY 2017",
+        "description": "My team's responsibility is creating the WebApp for the Smart City. The WebApp is used to monitor the number of people who enter and exit the public bus system of the city."
+      }
+    ],
+
+    "awards": [
+      {
+        "company": "3rd place undergraduate UNOSSC Asia-Pacific Competition."
+      },
+  
+      {
+        "company": "3rd place IARRC Robot Racing Competition, University of Waterloo, Canada."
+      }
+    ],
+
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "The Joint Graduate School of Energy and Environment",
+        "title": "Development LabView Program and Data Logger",
+        "years": "September 2020 - October 2020",
+        "description": "Key Responsibilities: Data collection from NI; creating a data logger to text file; designing and developing a real-time monitoring dashboard."
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Dynamic Spring Co., Ltd",
+        "title": "Research and Development Software Engineer-Internship",
+        "years": "June 2019 - July 2019",
+        "description": "Major Project: Monitoring the Spring Machine with a WebApp. Key Responsibilities: PLC programming, data collection from PLC via TCP/IP, HTML/CSS, Node.js, MVC. Minor Project: Installation Local Area Network CAT6."
       }
     ],
+
+
+
     "skills": [
       {
         "name": "Git",
         "level": "60%"
       },
       {
-        "name": "Illustrator",
-        "level": "55%"
+        "name": "Python",
+        "level": "90%"
       },
       {
         "name": "ReactJs",
@@ -96,46 +157,50 @@
         "level": "80%"
       },
       {
-        "name": "VueJs",
+        "name": "JavaScript",
         "level": "50%"
       },
       {
-        "name": "MongoDB",
+        "name": "TensorFlow",
         "level": "80%"
+      },
+      {
+        "name": "Deep Learning",
+        "level": "80%"
+      },
+      {
+        "name": "Pandas",
+        "level": "80%"
+      },
+      {
+        "name": "OpenCV",
+        "level": "60%"
+      },
+      {
+        "name": "Linux",
+        "level": "60%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
+        "title": "Automatic Water Quality Control and Monitor for Shrimp Farming via Low Energy Wireless Communication. ",
+        "category": "Bachalor Project",
         "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "url": "https://www.facebook.com/shrimpjung"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "Autonomous Robot Racing",
+        "category": "University of Waterloo",
+        "image": "IARRC.jpg",
+        "url": "https://www.robotcompetition.ca/iarrc2018/teams"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "title": "Student Competition on Triangular Cooperation for Sustainable Development",
+        "category": "UNOSSC",
+        "image": "UNOSSC.jpg",
+        "url": "https://www.asia-pacific.unsouthsouth.org/2020/03/student-competition-on-triangular-cooperation-for-sustainable-development/"
       }
     ]
   },
